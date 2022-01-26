@@ -1,0 +1,143 @@
+{
+  "intents": [
+    {
+      "tag": "About TRF",
+      "patterns": [
+        "What is TRF?",
+        "What's the motive of TRF?",
+        "What exactly is TRF?",
+        "What specifically is TRF?",
+        "What necessarily is TRF?",
+        "What is TRF's motivation?",
+        "What basically is TRF?",
+        "What is TRF's intention?",
+        "What is TRF's desire?",
+        "What is TRF's motto?",
+        "What do we do in TRF?",
+        "Is TRF a good club for me ?",
+        "What does TRF focus on?",
+        "What is TRF working for?",
+        "What is the vision and mission of TRF?"
+      ],
+      "responses": [
+        "The Robotics Forum is VIT Pune's premier robotics club, with a 15-year legacy. Students from various engineering disciplines make up our varied community, all of whom are driven by a passion for robotics. The goal of the team is to gain new skills, explore new technologies, and promote the area of robotics."
+      ]
+    },
+    {
+      "tag": "Greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Is anyone there?",
+        "Hello",
+        "Greetings",
+        "Good morning",
+        "Hola!",
+        " Good Evening",
+        "Hello Bot",
+        "How you doing?",
+        "What’s up",
+        "Good Afternoon"
+      ],
+      "responses": [
+        "Hello",
+        "Hi",
+        "Hi there",
+        " Hey, how can I help you?"
+      ]
+    },
+    {
+      "tag": "Goodbye_Thanks",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Goodnight",
+        "Thank You",
+        "Thanks",
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks for the help",
+        "Thank you for helping out",
+        "Your help is much appreciated",
+        " You are so kind",
+        "You are very helpful",
+        "Aren’t you a peach",
+        "Wonderful Bot",
+        "Gracias",
+        "Appreciated your help"
+      ],
+      "responses": [
+        "See you later",
+        "Have a nice day",
+        "Bye! Come back again",
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "You're most welcome!"
+      ]
+    },
+    {
+      "tag": "About",
+      "patterns": [
+        "Who are you?",
+        "What are you?",
+        "Who you are?",
+        " Can I know you?",
+        " What do you do",
+        "What is your name?",
+        "Who made you?",
+        "Tell me about yourself",
+        "How do you work ? "
+      ],
+      "responses": [
+        "I’m XYZ , your TRF assistant bot. I'm a NLP based bot made as a collaboration project of the ML and the Web team.",
+        "I'm XYZ, an Artificial Intelligent bot based on NLP. I m here to provide you information about TRF and Robosoft. I was developed by the ML team and deployed by the Web team."
+      ]
+    },
+    {
+      "tag": "Robocon",
+      "patterns": [
+        "What is Robocon?",
+        "What exactly is Robocon?",
+        "What is the criteria for robocon team?",
+        "What are the selection criteria for the robocon team?",
+        "What are the selection process for the robocon team?",
+        "What is the screening process for the robocon team?",
+        "How to participate in robocon?",
+        "How do I participate with robocon?",
+        "I want to take part in Robocon",
+        "I want to enroll in Robocon"
+      ],
+      "responses": [
+        "TRF participates in the ABU Robocon every year. In this competition robots built by different teams compete to perform a given task within a time frame. Anyone who is a member of TRF can be a part of the Robocon team irrespective of domain. Our team made a arrow shooting bot using MATLAB and cleared the stage 1 and stage 2 of the competition. "
+      ]
+    },
+    {
+      "tag": "Part of TRF ",
+      "patterns": [
+        "How to get into TRF?",
+        "Ways to get into TRF?",
+        "How to be a member at TRF?",
+        "What steps are required to be a member at TRF?",
+        "How do I join TRF?",
+        "What are the processes to becoming a TRF member?",
+        "How can I become a TRF member?",
+        "How might I now become TRF member?",
+        "I want to be a part of TRF",
+        "TRF Recruitmemt",
+        "How does TRF recruit?",
+        "Can i be a part of core team?",
+        "I want to join TRF",
+        "Help me in joining TRF"
+      ],
+      "responses": [
+        "\r\nEvery year TRF conducts its recruitment process around the end of academic year. This process is for Mechanical , Electrical , Programming as well as the Admin team. The details about the entire process is informed well before the registration and ample preparation time is provided to the students,. "
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}
